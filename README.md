@@ -2,6 +2,7 @@
 
 <!--
 **nocmk2/nocmk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -9,4 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GNN
 - 👯 I’m looking to collaborate on Machine Learning or Data Visulization project
 - 🤔 I’m looking for help with [Sachima](https://github.com/DessertsLab/Sachima) contributors 
--->
+
+
