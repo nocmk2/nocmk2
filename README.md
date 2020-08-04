@@ -8,6 +8,3 @@
 - 🔭 I’m currently working on [Sachima](https://github.com/DessertsLab/Sachima)
 - 🌱 I’m currently learning GNN
 - 🤔 I’m looking for help with [Sachima](https://github.com/DessertsLab/Sachima) contributors 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nocmk2)](https://github.com/anuraghazra/github-readme-stats)
