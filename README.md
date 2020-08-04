@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nocmk2</h1>
-<h3 align="center">A passionate frontend developer from Shanghai</h3>
+<h3 align="center">A passionate open-source developer from Shanghai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nocmk2" alt="nocmk2" /> </p>
 
