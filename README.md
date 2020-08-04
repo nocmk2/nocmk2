@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Sachima](https://github.com/DessertsLab/Sachima)
 - 🌱 I’m currently learning GNN
-- 👯 I’m looking to collaborate on Machine Learning or Data Visulization project
 - 🤔 I’m looking for help with [Sachima](https://github.com/DessertsLab/Sachima) contributors 
 
 
