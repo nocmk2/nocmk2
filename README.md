@@ -14,7 +14,7 @@
 -->
 
 - 🔭 I’m currently working on [Sachima](https://github.com/DessertsLab/Sachima)
-- 🌱 I’m currently learning GNN
+- 🌱 I’m currently learning Kinesis
 - 🤔 I’m looking for help with [Sachima](https://github.com/DessertsLab/Sachima) contributing
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nocmk2" alt="nocmk2" /> </p>
